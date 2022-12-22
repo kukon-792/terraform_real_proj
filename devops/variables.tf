@@ -19,7 +19,7 @@ variable "az_count" {
 }
 variable "app_image" {
   description = "Docker image to run it the EC2 cluster"
-  default     = "149594762438.dkr.ecr.us-east-2.amazonaws.com/nodeapp"
+  default     = "149594765678.dkr.ecr.us-east-2.amazonaws.com/nodeapp"
 }
 
 variable "app_port" {
