@@ -1,6 +1,6 @@
 [
     {
-        "name": "gm-app",
+        "name": "jgm-app",
     "image": "${app_image}:${tag}",
     "cpu": ${fargate_cpu},
     "memory": ${fargate_memory},
